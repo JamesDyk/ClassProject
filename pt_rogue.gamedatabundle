@@ -1,4 +1,4 @@
-﻿{
+{
     "GameDataObjects": [
         {
             "$type": "Game.GameData.ClassProgressionTableGameData, Assembly-CSharp",
@@ -3674,7 +3674,7 @@
 							"AddAbilityID": "b8d5f846-e6a6-4f1e-855c-9470edcb3e8b",
 							"Category": "General",
 							"Note": "PL ? Unlock - Superior Evasion",
-							"RemoveAbilityID": "bb2c8f7f-cf97-48bc-861c-5778043adecc",
+							"RemoveAbilityID": "00000000-0000-0000-0000-000000000000",
 							"UnlockStyle": "Unlock",
 							"Prerequisites": {
 								"Conditional": {
